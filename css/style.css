@@ -5,7 +5,7 @@ body {
 
 hr {
     border-top: 3px dotted green;
-    width: 26%;
+    width: 25%;
     margin-bottom: 20px;
     
 }
@@ -15,10 +15,6 @@ img {
 }
 
 h1,
-h3,
-h4,
-p,
-a,
 ul {
     font-family: 'DynaPuff', cursive;
     color: green;
@@ -28,10 +24,6 @@ ul {
 ol {
     font-family: 'DynaPuff', cursive;
     color: green;
-    list-style-position: inside;
-    text-align: center;
 }
 
-a  { 
-    color: green; 
-}
+a { color: inherit; }
